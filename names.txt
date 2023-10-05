@@ -1,2 +1,3 @@
+role, NetID, LastName, FirstName
 boss, rjing5, Jing, Ruizhen
 employee， sleng4, Leng, Shan
